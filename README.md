@@ -17,11 +17,11 @@ Whether your warnet is running a small or large, this application simplifies the
 
 ## 🛠️ Technologies
 
-| Category        | Technologies                                                                                                                                                    |
-| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Core**        | ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)                                                                                    |
-| **Database**    | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?logo=xampp&logoColor=white) |
-| **Development** | ![NetBeans](https://img.shields.io/badge/-Apache_NetBeans-1B6AC6?logo=apachenetbeanside&logoColor=white)                                                        |
+| Category        | Technologies                                                                                                                                                                             |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Core**        | ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)                                                                                                             |
+| **Database**    | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)                                                                                                          |
+| **Development** | ![NetBeans](https://img.shields.io/badge/-Apache_NetBeans-1B6AC6?logo=apachenetbeanside&logoColor=white) ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?logo=xampp&logoColor=white) |
 
 ## 🖼️ Demo
 
